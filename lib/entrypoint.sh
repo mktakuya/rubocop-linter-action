@@ -2,6 +2,6 @@
 
 set -e
 
-gem install rubocop rubocop-performance rubocop-rails
+gem install rubocop-github
 
 ruby /action/lib/index.rb
